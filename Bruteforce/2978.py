@@ -1,6 +1,7 @@
 # Algorithm Study
 # Backjoon: Blackjack (2789)
 # https://www.acmicpc.net/problem/2798
+# BRONZE 4
 
 opt, N, M = -1, 0, 0
 # N: Number of card

@@ -8,3 +8,6 @@
   이번 방학에 좋은 친구들을 모아서 이런 부족한 점에 대해서 공부하고 알아나갈 생각이다. 
   
   이 곳에는 내가 배운 것들과 문제 풀에 대해서 간단히 정리를 하는 공간이 될 것이다. 😎😎
+  
+-----------------------------
+- [Bruteforce](https://github.com/KyumKyum/Algorithm_Study/tree/main/Bruteforce)

@@ -5,6 +5,7 @@
 relationship = [[False for i in range(10)] for j in range(10)]  # 2D array to save relationship information
 res = [0] * 50  # Number of testcase
 
+
 def findFirst(taken):
     for i in range(len(taken)):
         if not taken[i]:

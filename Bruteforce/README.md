@@ -5,6 +5,7 @@
 # Problem List
 ### Algospot
 - PICNIC [Picnic](https://github.com/KyumKyum/Algorithm_Study/blob/main/Bruteforce/picnic.py).
+- CLOCKSYNC [Clocksync](https://github.com/KyumKyum/Algorithm_Study/blob/main/Bruteforce/clocksync.py)
 
 ### Backjoon
 - 블랙잭 (2798) [2978](https://github.com/KyumKyum/Algorithm_Study/blob/main/Bruteforce/2978.py) <span style="color:#A6442E;">[B2]</span>

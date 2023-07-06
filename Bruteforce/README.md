@@ -45,3 +45,4 @@
 - 시계 맞추기 (27532) [27532](https://github.com/KyumKyum/Algorithm_Study/blob/main/Bruteforce/27532.py) [G5]
 - 감시 피하기 (18428) [18428](https://github.com/KyumKyum/Algorithm_Study/blob/main/Bruteforce/18428.py) [G5]
 - N-Queen (9663) [9663](https://github.com/KyumKyum/Algorithm_Study/blob/main/Bruteforce/18428.py) [G4]
+- 월드컵 (6987) [6987](https://github.com/KyumKyum/Algorithm_Study/blob/main/Bruteforce/6987.py)

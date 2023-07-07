@@ -11,3 +11,4 @@
   
 -----------------------------
 - [Bruteforce](https://github.com/KyumKyum/Algorithm_Study/tree/main/Bruteforce)
+- [Divide And Conquer](https://github.com/KyumKyum/Algorithm_Study/tree/main/DivideAndConquer)

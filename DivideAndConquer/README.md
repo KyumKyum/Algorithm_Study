@@ -8,3 +8,5 @@
 - 행렬 제곱 (10830) [10830](https://github.com/KyumKyum/Algorithm_Study/blob/main/DivideAndConquer/10830.py) [G4]
 - Moo 게임 (5904) [5904](https://github.com/KyumKyum/Algorithm_Study/blob/main/DivideAndConquer/5904.py) [G5]
 - 사분면 (1891) [1891](https://github.com/KyumKyum/Algorithm_Study/blob/main/DivideAndConquer/1891.py) [G4]
+- 히스토그램 (1725) [1725](https://github.com/KyumKyum/Algorithm_Study/blob/main/DivideAndConquer/1725.py) [P5]
+- (1725와 동일한 문제) 히스토그램에서 가장 큰 직사각형 (1725) [1725](https://github.com/KyumKyum/Algorithm_Study/blob/main/DivideAndConquer/6549.py) [P5]

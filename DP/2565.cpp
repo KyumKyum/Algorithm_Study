@@ -19,9 +19,9 @@ int line_cut(int N){
     //* 1. Sort the input by left pole
         //* This is done by map (sort by key)
     //* 2. Find Longest increasing enumeration from the right pole.
-    //* 3. N - len(LIE)
+    //* 3. N - len(LIS)
 
-    int LIE = 0;
+    int LIS = 0;
 
     for(int i = 1; i < N; i++){
         for (int j = 0; j < i; j++){
@@ -29,10 +29,10 @@ int line_cut(int N){
                 dp[i] = max(dp[i], dp[j] + 1);
             }
         }
-        LIE = max(LIE, dp[i]);
+        LIS = max(LIS, dp[i]);
     }
 
-    return N - LIE;
+    return N - LIS;
 
 }
 

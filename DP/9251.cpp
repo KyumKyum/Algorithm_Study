@@ -19,7 +19,7 @@ int LCS(){
     //* DP: Keep tracking maximum value of LCS.
     //* if same, dp[x][y] = dp[x-1][y-1] + 1 (plus 1 from LCS before comparison)
     //* If different, dp [x][y] = max(dp[x-1][y], dp[x][y-1]) (get longer LCS without this letter)
-        //* If different, compare LCS between a[x-1] & b[y] and a[x] & b[y-1], get longger balue.
+        //* If different, compare LCS between a[x-1] & b[y] and a[x] & b[y-1], get longger value.
     for(int i = 0; i < a.length(); i++){
         for(int j = 0; j < b.length(); j++){
             if(a[i] == b[j]){

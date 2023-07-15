@@ -1,5 +1,5 @@
 // Algorithm Study
-// Backjoon: 박스 채우기 (9251)
+// Backjoon: LCS (9251)
 // https://www.acmicpc.net/problem/9251
 #include <iostream>
 #include <string>

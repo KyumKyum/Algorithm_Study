@@ -8,4 +8,5 @@
 - LCS (9251) [9251](https://github.com/KyumKyum/Algorithm_Study/blob/main/DP/9251.cpp) [G5]
 - 전깃줄 (2565) [2565](https://github.com/KyumKyum/Algorithm_Study/blob/main/DP/2565.cpp) [G5]
 - 내려가기 (2096) [2096](https://github.com/KyumKyum/Algorithm_Study/blob/main/DP/2096.cpp) [G5]
+- 동전 1 (2293) [2293](https://github.com/KyumKyum/Algorithm_Study/blob/main/DP/2293.cpp) [G5]
 - 가장 긴 바이토닉 부분 수열 (11054) [11054](https://github.com/KyumKyum/Algorithm_Study/blob/main/DP/11054.cpp) [G4]

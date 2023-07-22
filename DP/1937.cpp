@@ -36,7 +36,7 @@ int panda_move(int cur_y, int cur_x){
         moved = max(moved, 1 + panda_move(cur_y - 1, cur_x));
     }
 
-    if(cur_y < N - 1 && forest[cur_y + 1][cur_x] > bamboo){ //* Move Up
+    if(cur_y < N - 1 && forest[cur_y + 1][cur_x] > bamboo){ //* Move Down
         moved = max(moved, 1 + panda_move(cur_y + 1, cur_x));
     }
 

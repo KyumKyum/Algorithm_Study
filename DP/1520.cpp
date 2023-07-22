@@ -39,7 +39,7 @@ int go_down(int cur_y, int cur_x){
         moved += go_down(cur_y - 1, cur_x);
     }
 
-    if(cur_y < M - 1 && stairs[cur_y + 1][cur_x] < height){ //* Move Up
+    if(cur_y < M - 1 && stairs[cur_y + 1][cur_x] < height){ //* Move Down
         moved += go_down(cur_y + 1, cur_x);
     }
 

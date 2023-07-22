@@ -62,7 +62,7 @@ int main(void){
         }
     }
 
-    cout << go_down(0,0) << "\n"; //* Add 1; including current space.
+    cout << go_down(0,0) << "\n";
 
     return 0;
 }

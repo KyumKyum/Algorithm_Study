@@ -13,6 +13,7 @@
 - [Bruteforce](https://github.com/KyumKyum/Algorithm_Study/tree/main/Bruteforce)
 - [Divide And Conquer](https://github.com/KyumKyum/Algorithm_Study/tree/main/DivideAndConquer)
 - [Dynamic Programming](https://github.com/KyumKyum/Algorithm_Study/tree/main/DP)
+- [Greedy](https://github.com/KyumKyum/Algorithm_Study/tree/main/Greedy)
 - [Stack](https://github.com/KyumKyum/Algorithm_Study/tree/main/Stack)
 - [Tree](https://github.com/KyumKyum/Algorithm_Study/tree/main/Tree)
 - [Implementation](https://github.com/KyumKyum/Algorithm_Study/tree/main/Implementation)

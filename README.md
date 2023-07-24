@@ -18,7 +18,7 @@
 - [Implementation](https://github.com/KyumKyum/Algorithm_Study/tree/main/Implementation)
 
 -----------------------------
-### 명예의 전당
+### 명예의 전당 (Hall of Fame)
 여기에는 내가 풀면서 난이도가 있었으면서도 되게 재밌었고, 공부가 되었던 문제들을 적을 것이다. 
 > 고려 요소.
 >  - 난이도. (얼마나 많은 절망을 나에게 안겨주었는지.)

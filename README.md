@@ -15,7 +15,7 @@
 - [Dynamic Programming](https://github.com/KyumKyum/Algorithm_Study/tree/main/DP)
 - [Greedy](https://github.com/KyumKyum/Algorithm_Study/tree/main/Greedy)
 - [Stack](https://github.com/KyumKyum/Algorithm_Study/tree/main/Stack)
-- [Tree](https://github.com/KyumKyum/Algorithm_Study/tree/main/Tree)
+- [Graph](https://github.com/KyumKyum/Algorithm_Study/tree/main/Graph)
 - [Implementation](https://github.com/KyumKyum/Algorithm_Study/tree/main/Implementation)
 
 -----------------------------
@@ -36,26 +36,26 @@
 나에게 있어 Bruteforce의 새로운 시야를 갖게 해 준 문제. Backtracking이 없이는 BF는 쉬운 문제 아니냐고 자만하던 나에게 철퇴를 때렸던 문제...ㅋㅋ
 </details>
 
-- 전깃줄 [2565](https://www.acmicpc.net/problem/2565) (G5)
+2. 전깃줄 [2565](https://www.acmicpc.net/problem/2565) (G5)
 <details>
 <summary>➡️ 전깃줄 (2565) comment</summary>
 이걸 진짜 LIS로 풀 수 있을 거라고는 전혀 생각을 못했다... 3시간 고민하고 결국 풀이를 찾아봤는데, LIS로 푸는거 봤을 때 머리가 얼얼하더라ㅋㅋ
 </details>
 
-- N-Queen [9663](https://www.acmicpc.net/problem/9663) (G4)
+3. N-Queen [9663](https://www.acmicpc.net/problem/9663) (G4)
 <details>
 <summary>➡️ N-Queen (9663) comment</summary>
 대각선 이동을 1차원 배열에 기록하여 푼다라는 접근은 너무 새로웠다. 여기서 내가 정말 마음에 와 닿았던 코멘트: "산으로 가고 있다면 아이디어를 다시 생각해보아요"ㅋㅋㅋ
 </details>
 
-- 할로윈의 양아치 [20303](https://www.acmicpc.net/problem/20303) (G3)
+4. 할로윈의 양아치 [20303](https://www.acmicpc.net/problem/20303) (G3)
 <details>
 <summary>➡️ 할로윈의 양아치 (20303) comment</summary>
 내가 계속 헷갈리던 Knapsack 관련 문제를 완전히 이해시켜준 고마운 문제. 그리고 문제를 푼 후에 solved.ac에서 정말 웃겼던 댓글: "친구들을 분리 집합으로 감싼 다음 어른들 몰래 배낭에 넣어버리는 양아치 스브러스의 이야기"
 ㅋㅋㅋㅋㅋㅋㅋㅋㅋ 근데 정말 이렇게 풀었다!
 </details>
 
-- 히스토그램 [1725](https://www.acmicpc.net/problem/1725) (P5)
+5. 히스토그램 [1725](https://www.acmicpc.net/problem/1725) (P5)
 <details>
 <summary>➡️ 히스토그램(1725) comment</summary>
 Divide & Conquer를 극한을 활용하여 푼 문제. 난 이 문제를 이미 "알고리즘 문제 해결 전략"에서 공부를 한 상태였었어서 수월했다. 나중에 다른 P 수준 문제 풀면 바뀔수도 있다.

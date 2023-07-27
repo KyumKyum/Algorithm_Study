@@ -56,7 +56,7 @@ void make_friend(int x, int y){
         swap(x,y);
     }
 
-    //* Merge Tree; y will be a new parent for x.
+    //* Merge Graph; y will be a new parent for x.
     parent[x] = y;
 
     //* If their level is same, increase parent-side level (level will be increased as 1. (new parent level created.))

@@ -55,8 +55,8 @@
 ㅋㅋㅋㅋㅋㅋㅋㅋㅋ 근데 정말 이렇게 풀었다!
 </details>
 
-5. 히스토그램 [1725](https://www.acmicpc.net/problem/1725) (P5)
+5. 롤러코스터 [2873](https://www.acmicpc.net/problem/2873) (P3)
 <details>
-<summary>➡️ 히스토그램(1725) comment</summary>
-Divide & Conquer를 극한을 활용하여 푼 문제. 난 이 문제를 이미 "알고리즘 문제 해결 전략"에서 공부를 한 상태였었어서 수월했다. 나중에 다른 P 수준 문제 풀면 바뀔수도 있다.
+<summary>➡️ 롤러코스터(2873) comment</summary>
+"구현은 자신 있지"라고 자신만만하던 나에게 철퇴를 때린 문제.
 </details>

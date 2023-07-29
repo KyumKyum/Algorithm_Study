@@ -46,3 +46,4 @@
 - 감시 피하기 (18428) [18428](https://github.com/KyumKyum/Algorithm_Study/blob/main/Bruteforce/18428.py) [G5]
 - N-Queen (9663) [9663](https://github.com/KyumKyum/Algorithm_Study/blob/main/Bruteforce/9663.py) [G4]
 - 월드컵 (6987) [6987](https://github.com/KyumKyum/Algorithm_Study/blob/main/Bruteforce/6987.py) [G4]
+- 연구소 (14502) [14502](https://github.com/KyumKyum/Algorithm_Study/blob/main/Bruteforce/14502.cpp) [G4]

@@ -42,7 +42,8 @@
 ### BOJ
 - 블랙잭 (2798) [2978](https://github.com/KyumKyum/Algorithm_Study/blob/main/Bruteforce/2978.py) <span style="color:#A6442E;">[B2]</span>
 - 체스판 다시 칠하기 (1018) [1018](https://github.com/KyumKyum/Algorithm_Study/blob/main/Bruteforce/1018.py) <span style="color:#ADADAD;">[S4]</span>
-- N과 M (2) (15650) [15650](https://github.com/KyumKyum/Algorithm_Study/blob/main/Bruteforce/15650.py) [S3]
+- N과 M (2) (15650) [15650](https://github.com/KyumKyum/Algorithm_Study/blob/main/Bruteforce/15650.cpp) [S3]
+- N과 M (4) (15652) [15652](https://github.com/KyumKyum/Algorithm_Study/blob/main/Bruteforce/15652.cpp) [S3]
 - 시계 맞추기 (27532) [27532](https://github.com/KyumKyum/Algorithm_Study/blob/main/Bruteforce/27532.py) [G5]
 - 감시 피하기 (18428) [18428](https://github.com/KyumKyum/Algorithm_Study/blob/main/Bruteforce/18428.py) [G5]
 - N-Queen (9663) [9663](https://github.com/KyumKyum/Algorithm_Study/blob/main/Bruteforce/9663.py) [G4]

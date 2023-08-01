@@ -1,6 +1,6 @@
 // Algorithm Study
-// Backjoon: N과 M (15650)
-// https://www.acmicpc.net/problem/15650
+// Backjoon: N과 M (4) (15652)
+// https://www.acmicpc.net/problem/15652
 
 #include <iostream>
 #include <vector>
@@ -20,7 +20,7 @@ void solve(int start, int left){
     }
     for(int i = start; i <= N; i++){
         permutation.push_back(i);
-        solve(i + 1, left - 1);
+        solve(i, left - 1);
         permutation.pop_back();
     }
 }
@@ -33,5 +33,4 @@ int main(void){
 
     solve(1, M);
     return 0;
-
 }

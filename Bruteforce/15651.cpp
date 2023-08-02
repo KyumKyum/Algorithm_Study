@@ -1,6 +1,6 @@
 // Algorithm Study
-// Backjoon: N과 M (2) (15650)
-// https://www.acmicpc.net/problem/15650
+// Backjoon: N과 M (3) (15651)
+// https://www.acmicpc.net/problem/15651
 
 #include <iostream>
 #include <vector>
@@ -9,7 +9,7 @@ using namespace std;
 int N, M = 0;
 vector<int> permutation;
 
-void solve(int start, int left){
+void solve(int left){
     if(left <= 0){
         for(int i = 0; i < M; i++){
             cout << permutation[i] << " ";
@@ -18,9 +18,9 @@ void solve(int start, int left){
         cout << "\n";
         return;
     }
-    for(int i = start; i <= N; i++){
+    for(int i = 1; i <= N; i++){
         permutation.push_back(i);
-        solve(i + 1, left - 1);
+        solve( left - 1);
         permutation.pop_back();
     }
 }
@@ -31,7 +31,7 @@ int main(void){
 
     cin >> N >> M;
 
-    solve(1, M);
+    solve( M);
     return 0;
 
 }

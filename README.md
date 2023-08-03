@@ -30,23 +30,24 @@
 > 각 문제에 대한 Comment는 문제에 대한 스포일러가 될 수도 있으니 Toggle로 달았다.
 
 
-1. 시계 맞추기 [27532](https://www.acmicpc.net/problem/27532) (G5)
-<details>
-<summary>➡️ 시계 맞추기 (27532) comment</summary>
-나에게 있어 Bruteforce의 새로운 시야를 갖게 해 준 문제. Backtracking이 없이는 BF는 쉬운 문제 아니냐고 자만하던 나에게 철퇴를 때렸던 문제...ㅋㅋ
-</details>
-
-2. 전깃줄 [2565](https://www.acmicpc.net/problem/2565) (G5)
+1. 전깃줄 [2565](https://www.acmicpc.net/problem/2565) (G5)
 <details>
 <summary>➡️ 전깃줄 (2565) comment</summary>
 이걸 진짜 LIS로 풀 수 있을 거라고는 전혀 생각을 못했다... 3시간 고민하고 결국 풀이를 찾아봤는데, LIS로 푸는거 봤을 때 머리가 얼얼하더라ㅋㅋ
 </details>
 
-3. N-Queen [9663](https://www.acmicpc.net/problem/9663) (G4)
+2. N-Queen [9663](https://www.acmicpc.net/problem/9663) (G4)
 <details>
 <summary>➡️ N-Queen (9663) comment</summary>
 대각선 이동을 1차원 배열에 기록하여 푼다라는 접근은 너무 새로웠다. 여기서 내가 정말 마음에 와 닿았던 코멘트: "산으로 가고 있다면 아이디어를 다시 생각해보아요"ㅋㅋㅋ
 </details>
+
+3. 벽 부수고 이동하기 [2206](https://www.acmicpc.net/problem/27532) (G3)
+<details>
+<summary>➡️ 벽 부수고 이동하기 (2206) comment</summary>
+재밌었기도 했고, BFS의 특징을 완전히 이해시켜준 문제. 특히 차원(?)을 나누어 접근해야 한다는 것과, 이미 queue에 있는 것을 재방문 하지 않도록 처리하는 로직을 생각해내는 과정은 정말 도움이 많이 되었다.
+</details>
+
 
 4. 할로윈의 양아치 [20303](https://www.acmicpc.net/problem/20303) (G3)
 <details>
@@ -55,7 +56,14 @@
 ㅋㅋㅋㅋㅋㅋㅋㅋㅋ 근데 정말 이렇게 풀었다!
 </details>
 
-5. 롤러코스터 [2873](https://www.acmicpc.net/problem/2873) (P3)
+5. 아기상어 [16236](https://www.acmicpc.net/problem/16236) (G3)
+<details>
+<summary>➡️ 아기 상어(16236) comment</summary>
+Graph Search 탈출 조건에 대해서 더욱 자세하게 생각하게 만들어 준 좋은 문제. 탈출 조건을 "목적지가 존재할 때"라고만 생각하던 나에게 새로운 생각 방향을 전달해 준 문제.
+기억하자. 탈출 조건은 목적지가 존재할 때가 아닌, "목적지로 가는 길이 없을 때"라는 것을.
+</details>
+
+6. 롤러코스터 [2873](https://www.acmicpc.net/problem/2873) (P3)
 <details>
 <summary>➡️ 롤러코스터(2873) comment</summary>
 "구현은 자신 있지"라고 자신만만하던 나에게 철퇴를 때린 문제.

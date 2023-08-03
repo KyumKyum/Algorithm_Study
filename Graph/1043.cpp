@@ -15,7 +15,6 @@ using namespace std;
 
 int parent[60];
 int lev[60];
-bool knows[60]; //* Boolean Array to save people who knows the truth,.
 vector<int> prune;
 vector<int> group[60];
 int N,M = 0;
@@ -56,25 +55,30 @@ void make_group(int x, int y){
 }
 
 int tell_lie(void){
-    int lie = 0;
+    int possible = M;
+    int prune_size = prune.size();
     bool tell_lie = true;
 
     for(int i = 0; i < M; i++){
         int size = group[i].size();
         tell_lie = true;
         for(int j = 0; j < size; j++){
-            if(knows[group[i][j]] || knows[parent[group[i][j]]]){
-                //* This group knows the truth.
-                tell_lie = false;
+            if(!tell_lie){
+                //* Not possible; break;
                 break;
             }
-        }
-        if(tell_lie){
-            lie++;
+            for(int k = 0; k < prune_size; k++){
+                if(find_root(group[i][j]) == find_root(prune[k])){
+                    //* This group has people who know the truth.
+                    tell_lie = false;
+                    possible -= 1;
+                    break;
+                }
+            }
         }
     }
 
-    return lie;
+    return possible;
 }
 
 int main(void){
@@ -82,7 +86,6 @@ int main(void){
     cin.tie(0);
 
     fill(begin(parent), end(parent), -1);
-    fill(begin(knows), end(knows), false);
     fill(begin(lev), end(lev), 1);
 
     int prune_num, tgt = 0;
@@ -95,30 +98,25 @@ int main(void){
     for(int i = 0; i < prune_num; i++){
         cin >> tgt;
         prune.push_back(tgt);
-        knows[tgt] = true;
     }
 
     for(int i = 0; i < M; i++){
+        int prev = 0;
         cin >> incoming;
         for(int j = 0; j < incoming; j++){
-            cin >> person;
+            if(j > 0){
+                prev = person;
+                cin >> person;
+                make_group(prev, person);
+            }else{
+                cin >> person;
+            }
             group[i].push_back(person);
-        }
-        int size = group[i].size();
-        for(int k = 0; k < size - 1; k++){
-            make_group(group[i][k], group[i][k+1]);
         }
     }
 
     if(prune_num > 0){
         //* Search additional root shares with friends knows truth.
-        for(int i = 0; i < prune_num; i++){
-            if(parent[prune[i]] != -1){ //* Not a root itself
-                prune.push_back(parent[prune[i]]);
-                knows[parent[prune[i]]] = true;
-            }
-        }
-
         cout << tell_lie() << "\n";
     }else{
         //* Tell lie to all groups!

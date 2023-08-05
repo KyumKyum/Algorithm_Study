@@ -18,6 +18,7 @@
 - [Graph](https://github.com/KyumKyum/Algorithm_Study/tree/main/Graph)
 - [Bitmask](https://github.com/KyumKyum/Algorithm_Study/tree/main/Bitmask)
 - [Implementation](https://github.com/KyumKyum/Algorithm_Study/tree/main/Implementation)
+- [Miscellaneous](https://github.com/KyumKyum/Algorithm_Study/tree/main/Miscellaneous)
 
 -----------------------------
 ### 명예의 전당 (Hall of Fame)

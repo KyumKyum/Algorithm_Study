@@ -1,7 +1,7 @@
+
 // Algorithm Study
 // Backjoon: 좀비 떼가 기관총 진지에도 오다니 (19644)
 // https://www.acmicpc.net/problem/19644
-
 #include <iostream>
 #include <queue>
 #include <vector>

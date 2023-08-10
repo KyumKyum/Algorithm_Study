@@ -15,6 +15,8 @@
 - [Dynamic Programming](https://github.com/KyumKyum/Algorithm_Study/tree/main/DP)
 - [Greedy](https://github.com/KyumKyum/Algorithm_Study/tree/main/Greedy)
 - [Stack](https://github.com/KyumKyum/Algorithm_Study/tree/main/Stack)
+- [Queue](https://github.com/KyumKyum/Algorithm_Study/tree/main/Queue)
+- [Deque](https://github.com/KyumKyum/Algorithm_Study/tree/main/Deque)
 - [Graph](https://github.com/KyumKyum/Algorithm_Study/tree/main/Graph)
 - [Bitmask](https://github.com/KyumKyum/Algorithm_Study/tree/main/Bitmask)
 - [Implementation](https://github.com/KyumKyum/Algorithm_Study/tree/main/Implementation)

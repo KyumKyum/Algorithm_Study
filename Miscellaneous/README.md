@@ -7,4 +7,4 @@
 --------------------------------
 
 # Problem List
-- 선 긋기 (2170) [2170](https://github.com/KyumKyum/Algorithm_Study/blob/main/Miscellaneous/2170.py) [G5]
+- 선 긋기 (2170) [2170](https://github.com/KyumKyum/Algorithm_Study/blob/main/Miscellaneous/2170.cpp) [G5]

@@ -17,6 +17,7 @@
 - [Stack](https://github.com/KyumKyum/Algorithm_Study/tree/main/Stack)
 - [Queue](https://github.com/KyumKyum/Algorithm_Study/tree/main/Queue)
 - [Deque](https://github.com/KyumKyum/Algorithm_Study/tree/main/Deque)
+- [Tree](https://github.com/KyumKyum/Algorithm_Study/tree/main/Tree)
 - [Graph](https://github.com/KyumKyum/Algorithm_Study/tree/main/Graph)
 - [String](https://github.com/KyumKyum/Algorithm_Study/tree/main/String)
 - [Bitmask](https://github.com/KyumKyum/Algorithm_Study/tree/main/Bitmask)

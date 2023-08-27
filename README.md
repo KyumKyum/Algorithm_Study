@@ -62,11 +62,11 @@
 ㅋㅋㅋㅋㅋㅋㅋㅋㅋ 근데 정말 이렇게 풀었다!
 </details>
 
-5. 아기상어 [16236](https://www.acmicpc.net/problem/16236) (G3)
+5. 백조의 호수 [3197](https://www.acmicpc.net/problem/3197) (P5)
 <details>
-<summary>➡️ 아기 상어(16236) comment</summary>
-Graph Search 탈출 조건에 대해서 더욱 자세하게 생각하게 만들어 준 좋은 문제. 탈출 조건을 "목적지가 존재할 때"라고만 생각하던 나에게 새로운 생각 방향을 전달해 준 문제.
-기억하자. 탈출 조건은 목적지가 존재할 때가 아닌, "목적지로 가는 길이 없을 때"라는 것을.
+<summary>➡️ 백조의 호수(3197) comment</summary>
+BFS 와 Disjoint Set을 정말 적절히 사용한데다가, 일반적인 BFS문제처럼 풀면 무조건 TLE가 나기에 다음 대상을 queue에 넣어 관리해야한다는 아이디어를 생각해야하는 문제이다. BFS는 초기에 단 한번만 이루어지고, 백조가 만날 수 있는가는 분리 집합으로 관리하는 문제.
+할로윈의 양아치처럼 어렵지만 즐거운 문제였다.
 </details>
 
 6. 롤러코스터 [2873](https://www.acmicpc.net/problem/2873) (P3)

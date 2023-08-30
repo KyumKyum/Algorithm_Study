@@ -12,3 +12,4 @@
 - 최솟값과 최댓값 (2357) [2357](https://github.com/KyumKyum/Algorithm_Study/blob/main/Tree/2357.cpp) [G1]
 - 최솟값 (10868) [10868](https://github.com/KyumKyum/Algorithm_Study/blob/main/Tree/10868.cpp) [G1]
 - 백조의 호수 (3197) [3197](https://github.com/KyumKyum/Algorithm_Study/blob/main/Tree/3197.cpp) [P5]
+- 교수님은 기다리지 않는다 (3830) (https://github.com/KyumKyum/Algorithm_Study/blob/main/Tree/3830.cpp) [P3]

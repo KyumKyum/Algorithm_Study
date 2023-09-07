@@ -45,6 +45,8 @@
 - N과 M (2) (15650) [15650](https://github.com/KyumKyum/Algorithm_Study/blob/main/Bruteforce/15650.cpp) [S3]
 - N과 M (3) (15651) [15651](https://github.com/KyumKyum/Algorithm_Study/blob/main/Bruteforce/15651.cpp) [S3]
 - N과 M (4) (15652) [15652](https://github.com/KyumKyum/Algorithm_Study/blob/main/Bruteforce/15652.cpp) [S3]
+- N과 M (5) (15654) [15654](https://github.com/KyumKyum/Algorithm_Study/blob/main/Bruteforce/15654.cpp) [S3]
+- N과 M (9) (15663) [15663](https://github.com/KyumKyum/Algorithm_Study/blob/main/Bruteforce/15663.cpp) [S3]
 - 시계 맞추기 (27532) [27532](https://github.com/KyumKyum/Algorithm_Study/blob/main/Bruteforce/27532.py) [G5]
 - 감시 피하기 (18428) [18428](https://github.com/KyumKyum/Algorithm_Study/blob/main/Bruteforce/18428.py) [G5]
 - 암호 만들기 (1759) [18428](https://github.com/KyumKyum/Algorithm_Study/blob/main/Bruteforce/1759.cpp) [G5]

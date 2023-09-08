@@ -12,6 +12,7 @@
 - 서강그라운드 (14938) [14938](https://github.com/KyumKyum/Algorithm_Study/blob/main/Graph/14938.cpp) [G4]
 - 타임머신 (11657) [11657](https://github.com/KyumKyum/Algorithm_Study/blob/main/Graph/11657.cpp) [G4]
 - 플로이드 (11404) [11404](https://github.com/KyumKyum/Algorithm_Study/blob/main/Graph/11404.cpp) [G4]
+- 운동 (1956) [1956](https://github.com/KyumKyum/Algorithm_Study/blob/main/Graph/1956.cpp) [G4]
 - 파티 (1238) [1238](https://github.com/KyumKyum/Algorithm_Study/blob/main/Graph/1238.cpp) [G3] 
 - 할로윈의 양아치 (20303) [9935](https://github.com/KyumKyum/Algorithm_Study/blob/main/Graph/20303.cpp) [G3]
 - 치즈 (2638) [2638](https://github.com/KyumKyum/Algorithm_Study/blob/main/Graph/2638.cpp) [G3]

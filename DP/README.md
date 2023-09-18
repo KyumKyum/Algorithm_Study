@@ -16,3 +16,4 @@
 - ls (5015) [5015](https://github.com/KyumKyum/Algorithm_Study/blob/main/DP/5015.cpp) [G3]
 - 욕심쟁이 판다 [1937](https://github.com/KyumKyum/Algorithm_Study/blob/main/DP/1937.cpp) [G3]
 - 내리막길 [1520](https://github.com/KyumKyum/Algorithm_Study/blob/main/DP/1520.cpp) [G3]
+- Dance Dance Revolution [2342](https://github.com/KyumKyum/Algorithm_Study/blob/main/DP/2342.cpp) [G3]

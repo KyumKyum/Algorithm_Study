@@ -30,5 +30,6 @@
 - 사분면 (1891) [1891](https://github.com/KyumKyum/Algorithm_Study/blob/main/DivideAndConquer/1891.py) [G4]
 - Secret Code (9994) [9994](https://github.com/KyumKyum/Algorithm_Study/blob/main/DivideAndConquer/9994.py) [G3]
 - 박스 채우기 (1493) [1493](https://github.com/KyumKyum/Algorithm_Study/blob/main/DivideAndConquer/1493.cpp) [G3]
+- 피보나치 수 6 (11444) [11444](https://github.com/KyumKyum/Algorithm_Study/blob/main/DivideAndConquer/11444.cpp) [G2]
 - 히스토그램 (1725) [1725](https://github.com/KyumKyum/Algorithm_Study/blob/main/DivideAndConquer/1725.py) [P5]
 - (1725와 동일한 문제) 히스토그램에서 가장 큰 직사각형 (6549) [6549](https://github.com/KyumKyum/Algorithm_Study/blob/main/DivideAndConquer/6549.py) [P5]

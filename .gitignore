@@ -3,5 +3,6 @@
 *.out
 *.app
 *.o
+*.jar
 
 */solve

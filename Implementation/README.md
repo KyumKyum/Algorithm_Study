@@ -6,6 +6,7 @@
 
 ### BOJ
 - 치킨배달 (15686) [15686](https://github.com/KyumKyum/Algorithm_Study/blob/main/Implementation/15686.cpp) [G5]
+- 빗물 (14719) [14719](https://github.com/KyumKyum/Algorithm_Study/blob/main/Implementation/14719.kt) [G5]
 - 컨베이어 벨트 위의 로봇 (20055) [20055](https://github.com/KyumKyum/Algorithm_Study/blob/main/Implementation/20055.cpp) [G5]
 - 로봇청소기 (14503) [14503](https://github.com/KyumKyum/Algorithm_Study/blob/main/Implementation/14503.cpp) [G5]
 - 톱니바퀴 (14891) [14891](https://github.com/KyumKyum/Algorithm_Study/blob/main/Implementation/14891.cpp) [G5]

@@ -55,7 +55,7 @@
 </details>
 
 
-4. 할로윈의 양아치 [20303](https://www.acmicpc.net/problem/20303) (G3)
+4. 할로윈의 양아치 [20303](https://www.acmicpc.net/problem/20303) (G2)
 <details>
 <summary>➡️ 할로윈의 양아치 (20303) comment</summary>
 내가 계속 헷갈리던 Knapsack 관련 문제를 완전히 이해시켜준 고마운 문제. 그리고 문제를 푼 후에 solved.ac에서 정말 웃겼던 댓글: "친구들을 분리 집합으로 감싼 다음 어른들 몰래 배낭에 넣어버리는 양아치 스브러스의 이야기"

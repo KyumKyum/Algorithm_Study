@@ -10,4 +10,5 @@
 - 선 긋기 (2170) [2170](https://github.com/KyumKyum/Algorithm_Study/blob/main/Miscellaneous/2170.cpp) [G5]
 - 용액 (2467) [2467](https://github.com/KyumKyum/Algorithm_Study/blob/main/Miscellaneous/2467.cpp) [G5]
 - 좋다 (1253) [1253](https://github.com/KyumKyum/Algorithm_Study/blob/main/Miscellaneous/1253.kt) [G4]
+- 부분합 (1806) [1806](https://github.com/KyumKyum/Algorithm_Study/blob/main/Miscellaneous/1806.cpp) [G4]
 - List of Unique Numbers (13144) [13144](https://github.com/KyumKyum/Algorithm_Study/blob/main/Miscellaneous/13144.kt) [G4]

@@ -17,5 +17,7 @@
 - Puyo Puyo (11559) [11559](https://github.com/KyumKyum/Algorithm_Study/blob/main/Implementation/11559.cpp) [G4]
 - 경사로 (14890) [14890](https://github.com/KyumKyum/Algorithm_Study/blob/main/Implementation/14890.cc) [G3]
 - 캐슬 디펜스 (17135) [17135](https://github.com/KyumKyum/Algorithm_Study/blob/main/Implementation/17135.kt) [G3]
-- 감시 (15683) [15683](https://github.com/KyumKyum/Algorithm_Study/blob/main/Implementation/15683.cpp) [G3]
+- 감시 (15683) [15683](https://github.com/KyumKyum/Algorithm_Study/blob/main/Implementation/15683.cpp) [G3] 
+- 2048 (Easy) (12100) [12100](https://github.com/KyumKyum/Algorithm_Study/blob/main/Implementation/12100.cpp) [G1]
 - 롤러코스터 (2873) [2873](https://github.com/KyumKyum/Algorithm_Study/blob/main/Implementation/2873.cpp) [P3]
+

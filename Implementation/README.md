@@ -19,6 +19,7 @@
 - 캐슬 디펜스 (17135) [17135](https://github.com/KyumKyum/Algorithm_Study/blob/main/Implementation/17135.kt) [G3]
 - 감시 (15683) [15683](https://github.com/KyumKyum/Algorithm_Study/blob/main/Implementation/15683.cpp) [G3] 
 - 사다리 조작 (15684) [15684](https://github.com/KyumKyum/Algorithm_Study/blob/main/Implementation/15684.cpp) [G3] 
+- 주사위 굴리기 2 (23288) [23288](https://github.com/KyumKyum/Algorithm_Study/blob/main/Implementation/23288.cpp) [G3]
 - 2048 (Easy) (12100) [12100](https://github.com/KyumKyum/Algorithm_Study/blob/main/Implementation/12100.cpp) [G1]
 - 구슬 탈출 2 (13460) [13460](https://github.com/KyumKyum/Algorithm_Study/blob/main/Implementation/13460.cpp) [G1]
 - 롤러코스터 (2873) [2873](https://github.com/KyumKyum/Algorithm_Study/blob/main/Implementation/2873.cpp) [P3]

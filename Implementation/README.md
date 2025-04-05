@@ -24,5 +24,6 @@
 - 통나무 옮기기 (1938) [1938](https://github.com/KyumKyum/Algorithm_Study/blob/main/Implementation/1938.cpp) [G2]
 - 2048 (Easy) (12100) [12100](https://github.com/KyumKyum/Algorithm_Study/blob/main/Implementation/12100.cpp) [G1]
 - 구슬 탈출 2 (13460) [13460](https://github.com/KyumKyum/Algorithm_Study/blob/main/Implementation/13460.cpp) [G1]
+- 낚시왕 (17143) [17143](https://github.com/KyumKyum/Algorithm_Study/blob/main/Implementation/17143.cpp) [G1]
 - 롤러코스터 (2873) [2873](https://github.com/KyumKyum/Algorithm_Study/blob/main/Implementation/2873.cpp) [P3]
 

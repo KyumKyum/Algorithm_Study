@@ -22,6 +22,7 @@
 - 주사위 굴리기 2 (23288) [23288](https://github.com/KyumKyum/Algorithm_Study/blob/main/Implementation/23288.cpp) [G3]
 - 색종이 붙이기 (17136) [17136](https://github.com/KyumKyum/Algorithm_Study/blob/main/Implementation/17136.cpp) [G2]
 - 통나무 옮기기 (1938) [1938](https://github.com/KyumKyum/Algorithm_Study/blob/main/Implementation/1938.cpp) [G2]
+- 스타트 택시 (19238) [19238](https://github.com/KyumKyum/Algorithm_Study/blob/main/Implementation/19238.cpp) [G2]
 - 2048 (Easy) (12100) [12100](https://github.com/KyumKyum/Algorithm_Study/blob/main/Implementation/12100.cpp) [G1]
 - 구슬 탈출 2 (13460) [13460](https://github.com/KyumKyum/Algorithm_Study/blob/main/Implementation/13460.cpp) [G1]
 - 낚시왕 (17143) [17143](https://github.com/KyumKyum/Algorithm_Study/blob/main/Implementation/17143.cpp) [G1]

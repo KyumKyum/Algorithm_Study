@@ -20,6 +20,7 @@
 - 감시 (15683) [15683](https://github.com/KyumKyum/Algorithm_Study/blob/main/Implementation/15683.cpp) [G3] 
 - 사다리 조작 (15684) [15684](https://github.com/KyumKyum/Algorithm_Study/blob/main/Implementation/15684.cpp) [G3] 
 - 주사위 굴리기 2 (23288) [23288](https://github.com/KyumKyum/Algorithm_Study/blob/main/Implementation/23288.cpp) [G3]
+- 마법사 상어와 파이어스톰 (20058) [20058](https://github.com/KyumKyum/Algorithm_Study/blob/main/Implementation/20058.cpp) [G3]
 - 색종이 붙이기 (17136) [17136](https://github.com/KyumKyum/Algorithm_Study/blob/main/Implementation/17136.cpp) [G2]
 - 통나무 옮기기 (1938) [1938](https://github.com/KyumKyum/Algorithm_Study/blob/main/Implementation/1938.cpp) [G2]
 - 스타트 택시 (19238) [19238](https://github.com/KyumKyum/Algorithm_Study/blob/main/Implementation/19238.cpp) [G2]

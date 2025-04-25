@@ -13,5 +13,6 @@
 - 카드 정렬하기 (1715) [1715](https://github.com/KyumKyum/Algorithm_Study/blob/main/Greedy/1715.cpp) [G4]
 - 파일 합치기 3 (13975) [13975](https://github.com/KyumKyum/Algorithm_Study/blob/main/Greedy/13975.cpp) [G4]
 - 수 묶기 (1744) [1744](https://github.com/KyumKyum/Algorithm_Study/blob/main/Greedy/1744.cpp) [G4]
+- 크게 만들기 (2812) [2812](https://github.com/KyumKyum/Algorithm_Study/blob/main/Greedy/2812.cpp) [G3]
 - 보석 도둑 (1202) [1202](https://github.com/KyumKyum/Algorithm_Study/blob/main/Greedy/1202.cpp) [G2]
 - 멀티탭 스케줄링 (1700) [1700](https://github.com/KyumKyum/Algorithm_Study/blob/main/Greedy/1700.cpp) [G1]
